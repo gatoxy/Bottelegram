@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import json
 
-BOT_TOKEN = 'seu_token'
+BOT_TOKEN = '6744916639:AAGywcPkGFQ-uQBv2gWdVNqCkFjfaPyI-MQ'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 anime_links = {}
